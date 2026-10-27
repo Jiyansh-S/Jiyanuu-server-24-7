@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Jiyanuu.aternos.me",
-    "port": 61000,
+    "ip": "jiyanuu.play.shulkerboxes.com",
+    "port": ,
     "version": "1.20.1",
     "try-creative": false
   },
